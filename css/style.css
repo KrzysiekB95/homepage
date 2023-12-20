@@ -1,0 +1,13 @@
+.naglowek {
+    color: rgb(52, 98, 235);
+}
+
+.body {
+    color: black;
+    background-color: white;
+}
+
+.gray {
+    color: white;
+    background-color: gray;
+}
